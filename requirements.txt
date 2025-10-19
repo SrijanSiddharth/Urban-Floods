@@ -1,0 +1,33 @@
+# used/recommended versions
+## for 01_data_preparation.ipynb
+earthengine-api==1.6.2
+geopandas==1.1.1
+pandas==2.2.3
+numpy==1.26.4
+matplotlib==3.10.5
+geemap==0.36.0
+plotly==5.24.1
+nbformat==5.10.4
+localtileserver==0.10.6
+
+## for download_data.py
+joblib==1.5.1
+
+## for compute_flood_params_areas.py
+openpyxl==3.1.5
+
+## for merge_data.py
+xarray==2025.7.1
+netCDF4==1.7.3
+rioxarray==0.19.0
+
+## for 02_eda.ipynb
+scipy==1.16.2
+scikit-learn==1.2.2
+
+## for 03_modeling.ipynb
+bottleneck==1.6.0
+tensorflow==2.19.0
+
+# for 04_modeling_regional_level.ipynb
+dask==2025.10.0
