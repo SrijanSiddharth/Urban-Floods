@@ -15,7 +15,7 @@ This project provides a **data-driven and scalable workflow** to estimate and mo
 
 The workflow follows a systematic pipeline:
 
-![alt text](docs/methodology_flowchart_.jpg)
+<img src="/docs/methodology_flowchart_.jpg" alt="Methodology Flowchart" width="800">
 
 ## 🗺️ Interactive Visualization
 
